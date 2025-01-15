@@ -1,0 +1,7 @@
+/Users/iwww/Documents/source-code/learningapp/bin/Publish/learningapp
+/Users/iwww/Documents/source-code/learningapp/bin/Publish/appsettings.Development.json
+/Users/iwww/Documents/source-code/learningapp/bin/Publish/appsettings.json
+/Users/iwww/Documents/source-code/learningapp/bin/Publish/learningapp.dll
+/Users/iwww/Documents/source-code/learningapp/bin/Publish/learningapp.deps.json
+/Users/iwww/Documents/source-code/learningapp/bin/Publish/learningapp.runtimeconfig.json
+/Users/iwww/Documents/source-code/learningapp/bin/Publish/learningapp.pdb
